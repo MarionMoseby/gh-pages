@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://flyingflamingo.codeberg.page/fr/categories/</loc>
+    <loc>https://www.pablomarcos.me/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flyingflamingo.codeberg.page/categories/"
+                href="https://www.pablomarcos.me/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://flyingflamingo.codeberg.page/es/categories/"
+                href="https://www.pablomarcos.me/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://flyingflamingo.codeberg.page/fr/categories/"
+                href="https://www.pablomarcos.me/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://flyingflamingo.codeberg.page/fr/</loc>
+    <loc>https://www.pablomarcos.me/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flyingflamingo.codeberg.page/"
+                href="https://www.pablomarcos.me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://flyingflamingo.codeberg.page/es/"
+                href="https://www.pablomarcos.me/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://flyingflamingo.codeberg.page/fr/"
+                href="https://www.pablomarcos.me/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://flyingflamingo.codeberg.page/fr/tags/</loc>
+    <loc>https://www.pablomarcos.me/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://flyingflamingo.codeberg.page/tags/"
+                href="https://www.pablomarcos.me/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://flyingflamingo.codeberg.page/es/tags/"
+                href="https://www.pablomarcos.me/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://flyingflamingo.codeberg.page/fr/tags/"
+                href="https://www.pablomarcos.me/fr/tags/"
                 />
   </url>
   

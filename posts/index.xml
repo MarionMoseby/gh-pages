@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pablo Marcos&#39; Blog</title>
-    <link>https://flyingflamingo.codeberg.page/posts/</link>
+    <link>https://www.pablomarcos.me/posts/</link>
     <description>Recent content in Posts on Pablo Marcos&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://flyingflamingo.codeberg.page/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pablomarcos.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Readme</title>
-      <link>https://flyingflamingo.codeberg.page/posts/readme/</link>
+      <link>https://www.pablomarcos.me/posts/readme/</link>
       <pubDate>Mon, 23 Nov 2020 04:12:00 +0600</pubDate>
       
-      <guid>https://flyingflamingo.codeberg.page/posts/readme/</guid>
+      <guid>https://www.pablomarcos.me/posts/readme/</guid>
       <description>[English Version Below]
 Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
 Mi filosofía Escribo esto en parte como insurance plan para el futuro, en parte para dejar clara mi filosofía respecto a la vida en general.
