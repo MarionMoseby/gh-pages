@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pablo Marcos&#39; Blog</title>
+    <link>https://flyingflamingo.codeberg.page/posts/</link>
+    <description>Recent content in Posts on Pablo Marcos&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://flyingflamingo.codeberg.page/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readme</title>
+      <link>https://flyingflamingo.codeberg.page/posts/readme/</link>
+      <pubDate>Mon, 23 Nov 2020 04:12:00 +0600</pubDate>
+      
+      <guid>https://flyingflamingo.codeberg.page/posts/readme/</guid>
+      <description>[English Version Below]
+Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
+Mi filosofía Escribo esto en parte como insurance plan para el futuro, en parte para dejar clara mi filosofía respecto a la vida en general.
+La privacidad es un derecho humano esencial, porque, sin ella, equivocarse sería un error insubsanable y peligroso, y el miedo a decir lo que sentimos nos paralizaría hasta el punto de no poder avanzar.</description>
+    </item>
+    
+  </channel>
+</rss>
