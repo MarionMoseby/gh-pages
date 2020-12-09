@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Pablo Marcos&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.pablomarcos.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,10 +17,7 @@
       <pubDate>Mon, 23 Nov 2020 04:12:00 +0600</pubDate>
       
       <guid>https://www.pablomarcos.me/posts/readme/</guid>
-      <description>[English Version Below]
-Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
-Mi filosofía Escribo esto en parte como insurance plan para el futuro, en parte para dejar clara mi filosofía respecto a la vida en general.
-La privacidad es un derecho humano esencial, porque, sin ella, equivocarse sería un error insubsanable y peligroso, y el miedo a decir lo que sentimos nos paralizaría hasta el punto de no poder avanzar.</description>
+      <description>[WIP]: This is a WIP introduction for my blog, and I have not yet completed it</description>
     </item>
     
   </channel>

@@ -6,10 +6,20 @@
     <description>Recent content on Pablo Marcos&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.pablomarcos.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Concurso de Etiquetas de Vino y Aceite de 2020 en la ETSIAAB</title>
+      <link>https://www.pablomarcos.me/posts/concursos/vinoaceite2020/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pablomarcos.me/posts/concursos/vinoaceite2020/</guid>
+      <description>He sido finalista en el Concursos de Diseño de Etiquetas de Vino y Aceite de 2020, en el que participé con la ayuda de mi primo, Daniel Marcos, que me ayudó a diseñar la etiqueta de vino, y Marta Pérez, que me ayudó con la de aceite.
+  </description>
+    </item>
     
     <item>
       <title>Plumas</title>
@@ -28,10 +38,7 @@ Sé que te han hecho llorar, pero reirás el último si acortas el duelo: los qu
       <pubDate>Mon, 23 Nov 2020 04:12:00 +0600</pubDate>
       
       <guid>https://www.pablomarcos.me/posts/readme/</guid>
-      <description>[English Version Below]
-Bienvenido a mi Blog personal, un sitio donde mantengo una recopilación de las cosas que escribo, de lo que soy y de mi filosofía, controladas por mí y no por una plataforma de terceros.
-Mi filosofía Escribo esto en parte como insurance plan para el futuro, en parte para dejar clara mi filosofía respecto a la vida en general.
-La privacidad es un derecho humano esencial, porque, sin ella, equivocarse sería un error insubsanable y peligroso, y el miedo a decir lo que sentimos nos paralizaría hasta el punto de no poder avanzar.</description>
+      <description>[WIP]: This is a WIP introduction for my blog, and I have not yet completed it</description>
     </item>
     
     <item>
@@ -105,6 +112,17 @@ A ver que tal se me da 😆</description>
 https://www.peppercarrot.com/extras/html/2016_cat-generator/index.php?seed=seedname
 Found it via @mmu_man
 #art #cuteness #cats #CatsOfMastodon</description>
+    </item>
+    
+    <item>
+      <title>Efímero</title>
+      <link>https://www.pablomarcos.me/posts/poesia/efimero/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.pablomarcos.me/posts/poesia/efimero/</guid>
+      <description>¿Qué somos sino una volátil brisa que se enrolla, bailarina, entre las ramas espinadas del olvido?
+¿Qué es la vida, sino un fastuoso juego de la oca, donde al que más cambie más le toca, y quien no evoluciona muere o abandona?
+¿Qué soy yo sino una catedral de cristal, que tiembla cada vez que siente llegar el último quejumbroso susurro de un corazón roto, un templo de paredes desnudas e interior marchito cuyos muros de carga no quieren sino yacer en ruinas?</description>
     </item>
     
     <item>
