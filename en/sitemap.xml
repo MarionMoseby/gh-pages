@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.pablomarcos.me/posts/concursos/vinoaceite2020/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.pablomarcos.me/posts/concursos/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+    <loc>https://www.pablomarcos.me/posts/poesia/eclipse/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.pablomarcos.me/</loc>
-    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -33,17 +28,27 @@
   </url>
   
   <url>
+    <loc>https://www.pablomarcos.me/posts/poesia/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pablomarcos.me/posts/</loc>
+    <lastmod>2020-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pablomarcos.me/posts/concursos/vinoaceite2020/</loc>
+    <lastmod>2020-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pablomarcos.me/posts/concursos/</loc>
     <lastmod>2020-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.pablomarcos.me/posts/poesia/pluma/</loc>
-    <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.pablomarcos.me/posts/poesia/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
   </url>
   
