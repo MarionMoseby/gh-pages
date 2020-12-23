@@ -11,14 +11,5 @@
 	<atom:link href="https://www.pablomarcos.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Readme</title>
-      <link>https://www.pablomarcos.me/posts/readme/</link>
-      <pubDate>Mon, 23 Nov 2020 04:12:00 +0600</pubDate>
-      
-      <guid>https://www.pablomarcos.me/posts/readme/</guid>
-      <description>[WIP]: This is a WIP introduction for my blog, and I have not yet completed it</description>
-    </item>
-    
   </channel>
 </rss>
