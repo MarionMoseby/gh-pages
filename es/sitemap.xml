@@ -23,12 +23,22 @@
   </url>
   
   <url>
+    <loc>https://www.pablomarcos.me/es/posts/poesia/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pablomarcos.me/es/posts/</loc>
     <lastmod>2021-02-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pablomarcos.me/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.pablomarcos.me/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,6 +55,21 @@
   <url>
     <loc>https://www.pablomarcos.me/es/posts/concursos/centrodelenguas/</loc>
     <lastmod>2020-12-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.pablomarcos.me/posts/concursos/centrodelenguas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.pablomarcos.me/fr/posts/concursos/centrodelenguas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.pablomarcos.me/es/posts/concursos/centrodelenguas/"
+                />
   </url>
   
   <url>
@@ -54,6 +79,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pablomarcos.me/posts/concursos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.pablomarcos.me/fr/posts/concursos/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,6 +99,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.pablomarcos.me/posts/concursos/vinoyaceite2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.pablomarcos.me/fr/posts/concursos/vinoyaceite2020/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,8 +153,13 @@
   </url>
   
   <url>
+    <loc>https://www.pablomarcos.me/es/posts/poesia/pajaro/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pablomarcos.me/es/posts/poesia/mitologia/</loc>
-    <lastmod>2019-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
