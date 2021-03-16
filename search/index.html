@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>404 Page not found</title>
+    <title>Search Results</title>
     
 
 
@@ -38,7 +38,8 @@
 <link rel="stylesheet" href="/css/style.css"/>
 
     
-    <link rel="stylesheet" href="/css/404.css">
+    <link rel="stylesheet" href="/css/layouts/list.css">
+    <link rel="stylesheet" href="/css/navigators/sidebar.css">
 
 
     
@@ -80,7 +81,7 @@
       <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/es">
+    <a class="navbar-brand" href="/">
       <img src="/images/main-logo_hu47450349114826056e2be89059cb78d7_20725_42x0_resize_box_2.png">Pablo Marcos&#39; Blog</a>
     <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
       <span class="navbar-toggler-icon"></span>
@@ -100,29 +101,97 @@
 
 
       
-       
-
       
+  
+  
+    
+  
+
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <form class="mx-auto" method="get" action="https://www.pablomarcos.me/search">
+          <input type="text" name="keyword" value="" placeholder="Search" data-search="" id="search-box" />
+        </form>
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/posts" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/posts/concursos/">Contests</a>
       
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/concursos/vinoyaceite2020/">ETSIAAB Labels 2020</a></li>
+  
 
-
-
-
-
-
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/posts/concursos/centrodelenguas/">Language Center 2020</a></li>
   
 
 
+      </ul>
+    </li>
+  
 
-<div class="container">
-    <div class="notFound">
-        <img src="/images/404_huf404c6818e5475c7870a4722b4efea20_110323_1500x0_resize_box_2.png" alt="">
-        <div class="message">
-            <h1>404</h1>
-            <h4>The page you are looking for is not there yet.</h4>
+
+            </div>
+          </ul>
         </div>
+      </div>
     </div>
-</div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content container-fluid" id="content">
+    <div class="container-fluid post-card-holder" id="post-card-holder">
+      <div id="search-results">
+
+        <script id="search-result-template" type="text/x-js-template">
+          <div class="post-card">
+            <a href="${link}" class="post-card-link">
+              <div class="card" style="min-height: 352px;"><a href="${link}" class="post-card-link">
+                <div class="card-head">
+                  <img class="card-img-top" src="${hero}">
+                </div>
+                <div class="card-body">
+                  <h5 class="card-title">${title}</h5>
+                  <p class="card-text post-summary">${summary}</p>
+                </div>
+                <div class="card-footer">
+                  <span class="float-left">${date}</span>
+                  <a href="${link}" class="float-right btn btn-outline-info btn-sm">Read</a>
+                </div>
+              </div>
+	          </a>
+          </div>
+        </script>
+
+      </div>
+    </div>
+  </div>
+</section>
 
 
       
@@ -166,7 +235,7 @@
   <div class="container pt-5">
     <div class="row text-left">
       <div class="col-md-4 col-sm-12">
-        <h5>Navegación</h5>
+        <h5>Navigation</h5>
         
         <ul>
             
@@ -175,7 +244,7 @@
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="#about">Sobre mí</a>
+                <a class="smooth-scroll" href="#about">About</a>
               </li>
             
             
@@ -184,7 +253,7 @@
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="#skills">Habilidades</a>
+                <a class="smooth-scroll" href="#skills">Skills</a>
               </li>
             
             
@@ -193,7 +262,7 @@
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="#experiences">Mi Historia</a>
+                <a class="smooth-scroll" href="#experiences">Experiences</a>
               </li>
             
             
@@ -202,7 +271,17 @@
                 
               
               <li class="nav-item">
-                <a class="smooth-scroll" href="#projects">Proyectos</a>
+                <a class="smooth-scroll" href="#education">Education</a>
+              </li>
+            
+            
+            
+              
+              
+                
+              
+              <li class="nav-item">
+                <a class="smooth-scroll" href="#projects">Projects</a>
               </li>
             
         </ul>
@@ -211,7 +290,7 @@
       </div>
       
       <div class="col-md-4 col-sm-12">
-        <h5>Contacto</h5>
+        <h5>Contact me:</h5>
         <ul>
           
           <li><span>Email: </span> <span>web@pablomarcos.me</span></li>
@@ -233,7 +312,7 @@
       </div>
       <div class="col-md-4 text-center">© 2020 Pablo Ignacio Marcos López</div>
       <div class="col-md-4 text-right">
-        <a id="hugo" href="https://gohugo.io/">Funcionando con
+        <a id="hugo" href="https://gohugo.io/">Powered by
         <img
           src="/images/hugo-logo.svg"
           alt="Hugo Logo"
@@ -254,6 +333,10 @@
 
 
     
-     
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"></script>
+<script src="https://www.pablomarcos.me/js/search.js"></script>
+
   </body>
 </html>
